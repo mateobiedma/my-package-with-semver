@@ -26,4 +26,4 @@ jobs:
           uv run semantic-release -v version --skip-build --no-commit --no-tag --no-changelog
           uv lock
           git add uv.lock
-          uv run semantic-release
+          uv run semantic-release -v version --skip-build
