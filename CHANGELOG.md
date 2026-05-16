@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`b277103`](https://github.com/mateobiedma/my-package-with-semver/commit/b277103d914079a61e08767d05ccd2881b61a520))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
